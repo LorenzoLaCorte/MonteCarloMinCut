@@ -1,0 +1,1 @@
+Per eseguire il programma: python3 MC_MinCut.py
